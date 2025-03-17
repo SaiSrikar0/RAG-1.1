@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+streamlit
+google-generativeai
+watchdog
+python-dotenv
+requests
