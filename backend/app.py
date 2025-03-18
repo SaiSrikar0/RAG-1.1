@@ -124,7 +124,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: #666666; padding: 10px;'>
-        Made by Your Team
+        Made by Raggers
     </div>
     """, 
     unsafe_allow_html=True
